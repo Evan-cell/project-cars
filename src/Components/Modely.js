@@ -1,11 +1,11 @@
 import React from 'react'
-import '../Components/Home.css'
-function Home({}) {
+import '../Components/Modely.css'
+function Modely() {
   return (
-    <div className='home'  >
+    <div className='mode2'  >
         
         <div className="header">
-            <div className="header__left">
+            {/* <div className="header__left">
                 <img src="https://www.logo.wine/a/logo/Tesla%2C_Inc./Tesla%2C_Inc.-Wordmark-Black-Logo.wine.svg" alt="" className='img__header'/>
             </div>
             <div className="header__center">
@@ -20,11 +20,11 @@ function Home({}) {
             <a href="">Shop</a>
             <a href="">Account</a>
             <a href="">Menu</a>
-            </div>
+            </div> */}
             
         </div>
         <div className="header__title">
-           <h1>Model 3</h1>
+           <h1>Model Y</h1>
            <p>Order online for <a href="">Touchless Delivery</a></p>     
         </div>
         <div className="order__inventory">
@@ -35,4 +35,4 @@ function Home({}) {
   )
 }
 
-export default Home
+export default Modely
