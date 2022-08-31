@@ -15,7 +15,11 @@ function Home() {
                 <a href="">Solar Roof</a>
                 <a href="">Solar Panels</a>
             </div>
-            <div className="header__right"></div>
+            <div className="header__right">
+            <a href="">Shop</a>
+            <a href="">Account</a>
+            <a href="">Menu</a>
+            </div>
         </div>
     </div>
   )
