@@ -48,3 +48,49 @@
     cursor: pointer;
     padding: 8px;
 }
+.header__title{
+    text-align: center;
+    margin-top: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(46, 46, 46);
+}
+.header__title >p{
+    color: rgb(42, 40, 40);
+    padding: 5px;
+}
+.header__title >p >a{
+    color: rgb(42, 40, 40);
+}
+.order__inventory{
+    text-align: center;
+    margin-top: 350px;
+    display: block;
+}
+.button {
+    position: absolute;
+    top: 50%;
+}
+.order{
+    background-color: rgb(47, 46, 46);
+    color: white;
+    padding: 10px;
+    padding-right: 70px;
+    padding-left: 70px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-size: large;
+    font-size: 15px;
+}
+.invent{
+    background-color: rgb(255, 244, 244);
+    color: rgb(68, 66, 66);
+    padding: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 15px;
+}

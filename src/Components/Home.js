@@ -27,8 +27,8 @@ function Home() {
            <p>Order online for <a href="">Touchless Delivery</a></p>     
         </div>
         <div className="order__inventory">
-            <button>Custom Order</button>
-            <button>Existing Inventory</button>
+            <button className='order'>Custom Order</button>
+            <button className='invent'>Existing Inventory</button>
         </div>
     </div>
   )
