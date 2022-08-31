@@ -18,13 +18,13 @@
 }
 .header__center > a{
     text-decoration: none;
-    color: rgb(49, 47, 47);
+    color: rgb(71, 71, 71);
     font-weight: 500;
     margin-left: 20px;
 }
 .header__right > a{
     text-decoration: none;
-    color: rgb(49, 47, 47);
+    color: rgb(71, 71, 71);
     font-weight: 500;
     margin-left: 20px;
     margin-right: 20px;
@@ -32,17 +32,19 @@
 }
 .header__right > a:hover{
     background-color: rgb(175, 170, 170);
-    border-radius: 5px;
+    border-radius: 15px;
     opacity: 0.5;
     color: rgb(255, 0, 0);
     font-weight: 600;
     cursor: pointer;
+    padding: 8px;
 }
 .header__center > a:hover{
     background-color: rgb(175, 170, 170);
-    border-radius: 5px;
+    border-radius: 15px;
     opacity: 0.5;
     color: rgb(255, 0, 0);
     font-weight: 600;
     cursor: pointer;
+    padding: 8px;
 }

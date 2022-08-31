@@ -20,6 +20,15 @@ function Home() {
             <a href="">Account</a>
             <a href="">Menu</a>
             </div>
+            
+        </div>
+        <div className="header__title">
+           <h1>Model 3</h1>
+           <p>Order online for <a href="">Touchless Delivery</a></p>     
+        </div>
+        <div className="order__inventory">
+            <button>Custom Order</button>
+            <button>Existing Inventory</button>
         </div>
     </div>
   )
