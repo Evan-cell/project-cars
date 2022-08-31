@@ -6,7 +6,17 @@
     background-repeat: no-repeat;
     background-image: url('/images/model-3.jpg');
 }
+.header{
+    display: flex;
+    align-items: center;
+}
 .img__header{
     width: 100px;
     height: 50px;
+}
+.header__center > a{
+    text-decoration: none;
+    color: rgb(49, 47, 47);
+    font-weight: 500;
+    margin-left: 20px;
 }
