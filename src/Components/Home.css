@@ -6,3 +6,7 @@
     background-repeat: no-repeat;
     background-image: url('/images/model-3.jpg');
 }
+.img__header{
+    width: 100px;
+    height: 50px;
+}
