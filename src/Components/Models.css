@@ -5,6 +5,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-image: url('/images/model-s.jpg');
+    overflow-x: hidden;
 }
 .header{
     display: flex;

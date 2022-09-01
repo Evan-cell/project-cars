@@ -1,10 +1,10 @@
-.mode2{
+.solar{
     width: 100vw;
     height: 100vh;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url('/images/model-y.jpg');
+    background-image: url('/images/solar-panel.jpg');
     overflow-x: hidden;
 }
 .header{
@@ -64,7 +64,7 @@
 }
 .order__inventory{
     text-align: center;
-    margin-top: 380px;
+    margin-top: 350px;
     @media (max-width : 768px){
         flex-direction : column;
     }

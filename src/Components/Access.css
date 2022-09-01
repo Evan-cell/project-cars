@@ -1,10 +1,10 @@
-.mode2{
+.access{
     width: 100vw;
     height: 100vh;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url('/images/model-y.jpg');
+    background-image: url('/images/accessories.jpg');
     overflow-x: hidden;
 }
 .header{
@@ -17,38 +17,9 @@
     width: 150px;
     height: 50px;
 }
-.header__center > a{
-    text-decoration: none;
-    color: rgb(71, 71, 71);
-    font-weight: 500;
-    margin-left: 20px;
-}
-.header__right > a{
-    text-decoration: none;
-    color: rgb(71, 71, 71);
-    font-weight: 500;
-    margin-left: 20px;
-    margin-right: 20px;
-    
-}
-.header__right > a:hover{
-    background-color: rgb(175, 170, 170);
-    border-radius: 15px;
-    opacity: 0.5;
-    color: rgb(255, 0, 0);
-    font-weight: 600;
-    cursor: pointer;
-    padding: 8px;
-}
-.header__center > a:hover{
-    background-color: rgb(175, 170, 170);
-    border-radius: 15px;
-    opacity: 0.5;
-    color: rgb(255, 0, 0);
-    font-weight: 600;
-    cursor: pointer;
-    padding: 8px;
-}
+
+
+
 .header__title{
     text-align: center;
     margin-top: 100px;
@@ -64,7 +35,7 @@
 }
 .order__inventory{
     text-align: center;
-    margin-top: 380px;
+    margin-top: 350px;
     @media (max-width : 768px){
         flex-direction : column;
     }
