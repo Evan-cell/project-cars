@@ -11,11 +11,7 @@ function Access() {
     </div>
     <div className="order__inventory">
         <button className='order'>Shop Now</button>
-        
-    </div>
-    <div className="header">
-       
-       <div className="header__center">
+        <div className="header__center">
            <a href="">Tesla @ 2022</a>
            <a href="">Privacy & Legal</a>
            <a href="">Vehicle Recalls</a>
@@ -25,6 +21,11 @@ function Access() {
            <a href="">Engage</a>
            <a href="">Locations</a>
        </div>
+        
+    </div>
+    <div className="header">
+       
+       
        
        
    </div>
